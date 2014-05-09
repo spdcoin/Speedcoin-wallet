@@ -97,7 +97,7 @@ public class Constants
 	public static final String SOURCE_URL = "https://github.com/spdcoin/" + CoinDefinition.coinName + "-wallet";
 	public static final String BINARY_URL = "http://speedcoin.co/files/files/wallet.apk";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/spdcoin/" + CoinDefinition.coinName + "j";
-	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
+	public static final String CREDITS_ZXING_URL = "https://github.com/zxing/zxing";
 	public static final String CREDITS_WEBSITE_URL = "http://speedcoin.co";
 	public static final String CREDITS_FORUM_URL = "https://cryptocointalk.com/topic/10519-speedcoin-spd-information/";
 	public static final String CREDITS_REDDIT_URL = "http://reddit.com/r/Speedcoins";

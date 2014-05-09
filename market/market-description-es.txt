@@ -1,0 +1,20 @@
+Consiste en una cartera de Speedcoins para tu dispositivo Android. Puedes enviar Speedcoins entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
+
+CARACTERÍSTICAS:
+
+• Visualización del saldo de la cartera en Speedcoin y en otras monedas.
+• Envío y recpción de Speedcoins a través de NFC, códigos QR o URL Speedcoin.
+• Libreta de direcciones para guardar las direcciones Speedcoin utilizadas habitualmente.
+• Las transacciones se pueden llevar a cabo sin conexión, ejecutándose al recuperar la conexión.
+• Notificaciones de sistema para la conectividad a la red Speedcoin y para la recepción de Speedcoins.
+• Widget de aplicación para el saldo Speedcoin.
+
+Puedes descubrir más sobre Speedcoin en
+http://www.speedcoin.co/
+
+Si quieres contribuir a Speedcoin Wallet, el proyecto está localizado en
+https://github.com/spdcoin/speedcoin-wallet
+
+Licencia: GPLv3
+¡Úsalo bajo tu propia responsabilidad!
+http://www.gnu.org/licenses/gpl-3.0.en.html

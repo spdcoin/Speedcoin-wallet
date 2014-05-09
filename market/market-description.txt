@@ -1,0 +1,22 @@
+Have your Speedcoins always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Speedcoin Wallet is the first mobile Speedcoin app, and arguably also the most secure!
+
+FEATURES:
+
+• No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
+• Display of Speedcoin amount in SPD and mSPD.
+• Conversion to and from national currencies.
+• Sending and receiving of Speedcoin via NFC, QR-codes or Speedcoin URLs.
+• Address book for regularly used Speedcoin addresses.
+• When you're offline, you can still pay via Bluetooth.
+• System notification for received coins.
+• App widget for Speedcoin balance.
+
+You can find more about Speedcoin at
+http://www.speedcoin.co/
+
+If you want to contribute to Speedcoin Wallet, the project is located at
+https://github.com/spdcoin/Speedcoin-wallet
+
+License: GPLv3
+Use at your own risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html

@@ -1,0 +1,20 @@
+Dit is een standalone Speedcoin Wallet voor uw Android apparaat. U kan direct Speedcoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+
+FUNCTIES:
+
+• Weergeven van het wallet saldo in Speedcoin en verschillende andere valuta.
+• Verzenden en ontvangen van Speedcoin via NFC, QR-codes of Speedcoin URLs.
+• Adresboek voor veelgebruikte Speedcoin adressen.
+• Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
+• Systeem melding over Speedcoin connectiviteit en ontvangen Speedcoins.
+• Widget voor Speedcoin saldo.
+
+Voor meer informatie over Speedcoin kunt u terecht op
+http://www.speedcoin.co/
+
+Als u een bijdrage wil leveren aan Speedcoin Wallet, het project is te vinden op
+https://github.com/spdcoin/speedcoin-wallet
+
+Licentie: GPLv3
+Gebruik op eigen risico!
+http://www.gnu.org/licenses/gpl-3.0.en.html

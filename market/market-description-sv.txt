@@ -1,0 +1,20 @@
+Detta är en fristående Speedcoin plånbok för Android. Du kan skicka Speedcoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+
+FUNKTIONER:
+
+• Visa plånbokens värde i Speedcoins och andra valutor.
+• Skicka och ta emot Speedcoins via NFC, QR-koder eller en Speedcoin URL.
+• Adressbok för de Speedcoin adresser man använder ofta.
+• Påbörja transaktioner medan du är offline, de utförs när du kommer online.
+• Systemnotifikationer när Speedcoins skickats till dig, och när plånboken kommunicerar med nätverket.
+• App widget som visar plånbokens värde.
+
+Du kan lära dig mer om Speedcoin genom att besöka
+http://www.speedcoin.co/
+
+Om du vill hjälpa till med utvecklingen av Speedcoin Wallet så kan du hitta projektet här
+https://github.com/spdcoin/speedcoin-wallet
+
+Licens: GPLv3
+Använd på egen risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>SPD, 8 Dezimalen</item>
+		<item>SPD, 6 Dezimalen</item>
+		<item>SPD, 4 Dezimalen</item>
+		<item>mSPD, 2 Dezimalen</item>
+	</string-array>
+
+</resources>

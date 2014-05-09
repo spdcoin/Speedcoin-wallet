@@ -1,0 +1,20 @@
+Samodzielny portfel Speedcoin dla Twojego urządzenia Android. Możesz wysyłać Speedcoin pomiędzy telefonami skanując kod QR, który jest wyświetlany przez aplikacje, lub przez NFC (Near Field Communication).
+
+FUNKCJE:
+
+• Wyświetlanie stanu konta portfela w Speedcoin i rożnych innych walutach.
+• Wysyłanie i odbieranie Speedcoin przez NFC, kod QR albo Speedcoin URL.
+• Książka adresowa dla regularnie używanych adresów Speedcoin.
+• Możliwość dodania transakcji offline, wykonywanych po połączeniu z siecią.
+• Notyfikacje systemowe o połączeniu z siecią Speedcoin i otrzymanych monetach.
+• Widget na stan konta Speedcoin.
+
+Więcej o Speedcoin dowiesz się pod adresem:
+http://www.speedcoin.co/
+
+Jeżeli chcesz wesprzeć Speedcoin Wallet, kody źródłowe projektu znajdują się pod adresem:
+https://github.com/spdcoin/speedcoin-wallet
+
+Licencja: GPLv3
+Używanie jedynie na własne ryzyko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

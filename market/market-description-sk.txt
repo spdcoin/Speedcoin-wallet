@@ -1,0 +1,22 @@
+Speedcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Speedcoin Wallet je prvá mobilná Speedcoin aplikácia a preukázateľne aj najbezpečnejšia.
+
+FUNKCIE:
+
+• Nie je potrebná žiadna registrácia ani žiadny účet.
+• Zobrazenie zostatku Speedcoinov v BTC alebo mBTC.
+• Prepočet hodnoty Speedcoinov do viacerých cudzích mien.
+• Posielanie a prijímanie Speedcoinov pomocou NFC, QR kódov alebo Speedcoin adries.
+• Adresár pre často používané Speedcoin adresy.
+• V offline režime je platba možná aj cez Bluetooth.
+• Notifikácie v stavovej lište pri prijatí Speedcoinov.
+• Widget s celkovým zostatkom.
+
+Viac informácií o Speedcoine
+http://bitcoin.org
+
+Ak chcete prispieť do projektu Speedcoin Wallet nájdete ho na adrese
+https://github.com/schildbach/bitcoin-wallet
+
+Licencia: GPLv3
+Použitie len na vlastné riziko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

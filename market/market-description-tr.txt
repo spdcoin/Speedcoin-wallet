@@ -1,0 +1,21 @@
+Speedcoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Speedcoin cüzdanı ilk mobil Speedcoin uygulamasıdır ve muhtemelen en güvenli Speedcoin uygulamasıdır!
+
+İŞLEVLERİ:
+• Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
+• Speedcoin meblağlarının BTC ve mBTC olarak gösterilmesi.
+• Dövizlere ve dövizlerden dönüştürme.
+• NFC, QR kodu veya Speedcoin bağlantıları ile Speedcoin gönderir ve alır.
+• Sık kullanılan Speedcoin adresleri için adres defteri içerir.
+• Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
+• Alınan Speedcoin'ler için sistem bildirimleri.
+• Speedcoin bakiyesini görüntüleyen widget.
+
+Speedcoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://www.speedcoin.co/
+
+Speedcoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/spdcoin/speedcoin-wallet
+
+Lisans: GPLv3
+Tüm riski siz üstlenmiş olursunuz.
+http://www.gnu.org/licenses/gpl-3.0.en.html

@@ -1,0 +1,21 @@
+Dengan aplikasi ini Anda selalu mempunyai Speedcoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Speedcoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+
+FITUR:
+
+• Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
+• Tampilkan saldo dompet dalam Speedcoin dan mata uang lainnya.
+• Mengirim dan menerima Speedcoin via NFC, kode-QR atau Tautan Speedcoin.
+• Buku alamat untuk alamat penggunaan Speedcoin secara reguler.
+• Masukkan transaksi saat offline, akan dilaksanakan ketika online.
+• Notifikasi sistem untuk konektivitas Speedcoin dan menerima koin.
+• Widget Apl untuk saldo Speedcoin.
+
+Anda dapat mengetahui lebih mengenai Speedcoin di
+http://www.speedcoin.co/
+
+Jika Anda ingin berkontribusi kepada Speedcoin Wallet, proyeknya berada di
+https://github.com/spdcoin/speedcoin-wallet
+
+Lisensi: GPLv3
+Gunakan dengan resiko Anda!
+http://www.gnu.org/licenses/gpl-3.0.en.html

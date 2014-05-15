@@ -37,7 +37,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.ViewPagerTabs;
 
 
-import de.schildbach.wallet.speedcoin.R;
+import de.schildbach.wallet.speedcoins.R;
 
 
 

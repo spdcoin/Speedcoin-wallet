@@ -2,10 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
 
-	package="de.schildbach.wallet.speedcoin"
+	package="de.schildbach.wallet.speedcoins"
 	android:installLocation="internalOnly"
-	android:versionCode="102"
-	android:versionName="1.0.2" >
+	android:versionCode="101"
+	android:versionName="1.0.1" >
 
 
 	<uses-sdk
@@ -164,11 +164,11 @@
 			android:windowSoftInputMode="stateAlwaysHidden" />
 		<provider
 			android:name="de.schildbach.wallet.AddressBookProvider"
-			android:authorities="de.schildbach.wallet.speedcoin.address_book"
+			android:authorities="de.schildbach.wallet.speedcoins.address_book"
 			android:exported="false" />
 		<provider
 			android:name="de.schildbach.wallet.ExchangeRatesProvider"
-			android:authorities="de.schildbach.wallet.speedcoin.exchange_rates"
+			android:authorities="de.schildbach.wallet.speedcoins.exchange_rates"
 			android:exported="false" />
 
 		<receiver

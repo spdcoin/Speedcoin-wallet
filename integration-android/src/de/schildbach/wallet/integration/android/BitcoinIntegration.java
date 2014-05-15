@@ -173,8 +173,8 @@ public final class BitcoinIntegration
 	{
 		Toast.makeText(context, "No Speedcoin application found.\nPlease install Speedcoin Wallet.", Toast.LENGTH_LONG).show();
 
-		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=de.schildbach.wallet.speedcoin"));
-		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://code.google.com/p/bitcoin-wallet/downloads/list"));
+		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=de.schildbach.wallet.speedcoins"));
+		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://sourceforge.net/projects/speedcoin/files/?source=navbar"));
 
 		final PackageManager pm = context.getPackageManager();
 		if (pm.resolveActivity(marketIntent, 0) != null)

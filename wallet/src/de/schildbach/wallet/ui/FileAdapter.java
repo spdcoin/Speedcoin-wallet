@@ -30,7 +30,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 
-import de.schildbach.wallet.speedcoin.R;
+import de.schildbach.wallet.speedcoins.R;
 
 
 

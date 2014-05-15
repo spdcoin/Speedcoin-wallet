@@ -23,7 +23,7 @@ import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.view.MenuItem;
 
 
-import de.schildbach.wallet.speedcoin.R;
+import de.schildbach.wallet.speedcoins.R;
 
 
 /**

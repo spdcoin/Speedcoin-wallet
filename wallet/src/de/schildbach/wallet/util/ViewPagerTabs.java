@@ -33,7 +33,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 
-import de.schildbach.wallet.speedcoin.R;
+import de.schildbach.wallet.speedcoins.R;
 
 
 /**

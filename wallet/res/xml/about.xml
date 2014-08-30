@@ -9,6 +9,10 @@
                 android:key="about_credits_website"
                 android:title="@string/about_credits_website_title" />
 		<Preference
+			android:key="about_community_googleplus"
+			android:summary="http://gourl.io"
+			android:title="@string/about_community_googleplus_title" />
+		<Preference
 			android:key="about_author_twitter"
 			android:summary="https://twitter.com/Speedcoin"
 			android:title="@string/about_author_twitter_title" />
@@ -19,7 +23,7 @@
 		<Preference
 			android:key="about_credits_reddit"
 			android:title="@string/about_credits_reddit_title" />
-        <Preference
+		<Preference
                 android:key="about_credits_forum"
                 android:title="@string/about_credits_forum_title" />
 		<Preference

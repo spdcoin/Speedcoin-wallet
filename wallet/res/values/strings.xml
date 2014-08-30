@@ -29,7 +29,7 @@
 	<string name="wallet_transactions_fragment_tab_sent">Sent</string>
 	<string name="wallet_transactions_fragment_empty_text_received">No Speedcoins received so far.</string>
 	<string name="wallet_transactions_fragment_empty_text_sent">No Speedcoins sent so far.</string>
-	<string name="wallet_transactions_fragment_empty_text_howto">How to get Speedcoins?\n\nTrade for traditional money,\nsell goods or services.\n\nGet Free 100 Speedcoins\nas new user on speedcoin.co</string>
+	<string name="wallet_transactions_fragment_empty_text_howto">How to get Speedcoins?\n\nwww.goUrl.io - monetise your\nlinks, urls, texts with speedcoins.\n\nGet Free 100 Speedcoins\nas new user on speedcoin.co</string>
 	<string name="wallet_transactions_row_warning_backup">Congratulations, you received your first payment! Have you already &lt;u>backed up your wallet&lt;/u>, to protect against loss?</string>
 	<string name="wallet_transactions_fragment_coinbase">mined</string>
 	<string name="wallet_transactions_fragment_internal">internal</string>
@@ -211,8 +211,8 @@
     <string name="about_credits_forum_title">"Speedcoin Forum"</string>
     <string name="about_credits_reddit_title">"Join the Speedcoin Subreddit"</string>
 
-	<string name="about_community_googleplus_title">Google+ Community</string>
-	<string name="about_community_googleplus_summary">Discussions about the app</string>
+	<string name="about_community_googleplus_title">GoURL.io - Monetise Your Links/Files with Bitcoins and Speedcoins</string>
+	<string name="about_community_googleplus_summary">Monetise your links and files</string>
 
 	<string name="about_author_twitter_title">Speedcoin on Twitter</string>
 	<string name="about_author_facebook_title">Speedcoin on Facebook</string>

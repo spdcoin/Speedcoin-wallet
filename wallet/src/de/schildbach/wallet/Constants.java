@@ -107,7 +107,7 @@ public class Constants
 	public static final String AUTHOR_FACEBOOK_URL = "https://facebook.com/speedcoins";
 	public static final String AUTHOR_GOOGLEPLUS_URL = "https://plus.google.com/";
 
-	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/";
+	public static final String COMMUNITY_GOOGLEPLUS_URL = "http://gourl.io/";
 
 	public static final String MARKET_APP_URL = "market://details?id=%s";
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";

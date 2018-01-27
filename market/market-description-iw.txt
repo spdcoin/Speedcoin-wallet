@@ -11,7 +11,7 @@ FEATURES:
 • וידגט להצגת יתרה.
 
 בהתקנה ראשונה עלול להיראות מסך לבן לזמן מה, הדבר תקין.
-לפרטים נוספים : http://www.speedcoin.co/
+לפרטים נוספים : https://www.speedcoin.org/
 
 הארנק הוא פרויקט בקוד פתוח בגוגל, אם ברצונך לתרום:
 https://github.com/spdcoin/speedcoin-wallet

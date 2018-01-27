@@ -11,7 +11,7 @@ Speedcoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak
 • Speedcoin bakiyesini görüntüleyen widget.
 
 Speedcoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Speedcoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
 https://github.com/spdcoin/speedcoin-wallet

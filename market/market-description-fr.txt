@@ -13,7 +13,7 @@ FONCTIONS :
 • Widget affichant le solde Speedcoin.
 
 Vous pouvez en apprendre plus au sujet de Speedcoin sur
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Si vous voulez contribuer à Speedcoin Wallet, le projet se trouve sur
 https://github.com/spdcoin/speedcoin-wallet

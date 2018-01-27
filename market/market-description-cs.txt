@@ -10,7 +10,7 @@ VLASTNOSTI:
 • Widget s celkovým zůstatkem.
 
 Více informací o Speedcoinech
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Pokud chcete přispět do projektu Speedcoin Wallet, naleznete jej na adrese
 https://github.com/spdcoin/Speedcoin-wallet

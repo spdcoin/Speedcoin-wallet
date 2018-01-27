@@ -10,7 +10,7 @@ FUNCTIES:
 • Widget voor Speedcoin saldo.
 
 Voor meer informatie over Speedcoin kunt u terecht op
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Als u een bijdrage wil leveren aan Speedcoin Wallet, het project is te vinden op
 https://github.com/spdcoin/speedcoin-wallet

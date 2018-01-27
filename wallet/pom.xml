@@ -6,7 +6,7 @@
 
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
-	<version>1.0.2</version>
+	<version>1.0.7</version>
 	<name>Speedcoin Wallet</name>
 
 

@@ -10,7 +10,7 @@
 • App widget για το υπόλοιπο των Speedcoin.
 
 Μπορείτε να βρείτε περισσότερα για τη χρήση Speedcoin στο
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Αν θέλετε να συμβάλει στη τη χρήση του Speedcoin Wallet, το έργο βρίσκεται εδώ:
 https://github.com/spdcoin/speedcoin-wallet

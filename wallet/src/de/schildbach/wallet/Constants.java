@@ -87,7 +87,7 @@ public class Constants
 	public static final int LOCAL_PRECISION = 6;
 
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;
-	public static final String REPORT_EMAIL = "android@speedcoin.co";
+	public static final String REPORT_EMAIL = "android@speedcoin.org";
 
 	public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
 	public static final String REPORT_SUBJECT_CRASH = "Crash report";
@@ -95,25 +95,25 @@ public class Constants
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
 	public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 3.29\n";
 	public static final String SOURCE_URL = "https://github.com/spdcoin/" + CoinDefinition.coinName + "-wallet";
-	public static final String BINARY_URL = "http://speedcoin.co/files/files/wallet.apk";
+	public static final String BINARY_URL = "https://speedcoin.org/files/files/wallet.apk";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/spdcoin/" + CoinDefinition.coinName + "j";
 	public static final String CREDITS_ZXING_URL = "https://github.com/zxing/zxing";
-	public static final String CREDITS_WEBSITE_URL = "http://speedcoin.co";
+	public static final String CREDITS_WEBSITE_URL = "https://speedcoin.org";
 	public static final String CREDITS_FORUM_URL = "https://cryptocointalk.com/topic/10519-speedcoin-spd-information/";
 	public static final String CREDITS_REDDIT_URL = "http://reddit.com/r/Speedcoins";
-	public static final String CREDITS_ICON_URL = "http://speedcoin.co";
+	public static final String CREDITS_ICON_URL = "https://speedcoin.org";
 
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/speedcoin";
 	public static final String AUTHOR_FACEBOOK_URL = "https://facebook.com/speedcoins";
 	public static final String AUTHOR_GOOGLEPLUS_URL = "https://plus.google.com/";
 
-	public static final String COMMUNITY_GOOGLEPLUS_URL = "http://gourl.io/";
+	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://gourl.io/";
 
 	public static final String MARKET_APP_URL = "market://details?id=%s";
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
 	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"speedcoin\"";
 
-	public static final String VERSION_URL = "http://speedcoin.co/lib/android/version";
+	public static final String VERSION_URL = "https://speedcoin.org/lib/android/version";
 	public static final int HTTP_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;
 
 	public static final String PREFS_KEY_LAST_VERSION = "last_version";

@@ -13,7 +13,7 @@ ELŐNYÖK:
 >>>>>>> upstream/prod
 
 Bővebben a Speedcoin-ról:
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Ha hozzájárulnál a Speedcoin Wallet projekthez:
 https://github.com/spdcoin/speedcoin-wallet

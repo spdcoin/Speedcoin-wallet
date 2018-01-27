@@ -10,7 +10,7 @@
                 android:title="@string/about_credits_website_title" />
 		<Preference
 			android:key="about_community_googleplus"
-			android:summary="http://gourl.io"
+			android:summary="https://gourl.io"
 			android:title="@string/about_community_googleplus_title" />
 		<Preference
 			android:key="about_author_twitter"
@@ -27,7 +27,7 @@
                 android:key="about_credits_forum"
                 android:title="@string/about_credits_forum_title" />
 		<Preference
-			android:summary="© 2011-2014, Andreas Schildbach\n© 2014 Speedcoin Team"
+			android:summary="© 2011-2014, Andreas Schildbach\n© 2014-2018 Speedcoin Team"
 			android:title="Copyright" />
 		<Preference
 			android:key="about_license"

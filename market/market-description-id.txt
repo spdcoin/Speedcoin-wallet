@@ -11,7 +11,7 @@ FITUR:
 • Widget Apl untuk saldo Speedcoin.
 
 Anda dapat mengetahui lebih mengenai Speedcoin di
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Jika Anda ingin berkontribusi kepada Speedcoin Wallet, proyeknya berada di
 https://github.com/spdcoin/speedcoin-wallet

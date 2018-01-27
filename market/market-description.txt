@@ -12,7 +12,7 @@ FEATURES:
 • App widget for Speedcoin balance.
 
 You can find more about Speedcoin at
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 If you want to contribute to Speedcoin Wallet, the project is located at
 https://github.com/spdcoin/Speedcoin-wallet

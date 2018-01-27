@@ -12,7 +12,7 @@ FEATURES:
 • App-Widget zeigt Speedcoin-Guthaben an.
 
 Weitere Informationen zu Speedcoin findest Du unter
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Wenn Du zu Speedcoin Wallet beitragen willst, das Projekt befindet sich auf
 https://github.com/spdcoin/Speedcoin-wallet

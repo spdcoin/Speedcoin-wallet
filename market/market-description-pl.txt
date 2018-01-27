@@ -10,7 +10,7 @@ FUNKCJE:
 • Widget na stan konta Speedcoin.
 
 Więcej o Speedcoin dowiesz się pod adresem:
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Jeżeli chcesz wesprzeć Speedcoin Wallet, kody źródłowe projektu znajdują się pod adresem:
 https://github.com/spdcoin/speedcoin-wallet

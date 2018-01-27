@@ -12,7 +12,7 @@ CARACTERÍSTICAS:
 • Widget para saldo de Speedcoins.
 
 Mais informações sobre Speedcoin em
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Se você deseja contribuir com o Speedcoin Wallet, o projeto encontra-se em
 https://github.com/spdcoin/speedcoin-wallet

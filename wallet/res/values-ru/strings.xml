@@ -30,7 +30,7 @@
 	<string name="wallet_transactions_fragment_tab_sent">Отправлено</string>
 	<string name="wallet_transactions_fragment_empty_text_received">Ещё не получено Speedcoin-монет</string>
 	<string name="wallet_transactions_fragment_empty_text_sent">Ещё не отправлено Speedcoin-монет</string>
-	<string name="wallet_transactions_fragment_empty_text_howto">Как получить Speedcoin?\n\nКупите за обычные деньги,\nпродавайте товары и услуги.\n\nПолучите бесплатно 100SPD как\nновый пользователь на speedcoin.co</string>
+	<string name="wallet_transactions_fragment_empty_text_howto">Как получить Speedcoin?\n\nКупите за обычные деньги,\nпродавайте товары и услуги.\n\nПолучите бесплатно 100SPD как\nновый пользователь на speedcoin.org</string>
 	<string name="wallet_transactions_row_warning_backup">Поздравляем, вы получили первый платёж! Вы уже &lt;u&gt;сделали резервную копию бумажника&lt;/u&gt;, чтобы обезопаситься от потерь?</string>
 	<string name="wallet_transactions_fragment_coinbase">добыто</string>
 	<string name="wallet_transactions_fragment_internal">внутренний</string>

@@ -10,7 +10,7 @@ TÍNH NĂNG:
 • Thông báo trong hệ thống theo tính nhanh gọn về số lượng Speedcoin nhận và gửi đi.
 • Tiện ích dành riêng cho Speedcoin.
 
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Nếu bạn có ý tưởng đóng góp cho Speedcoin Wallet, hãy truy cập vào trang web
 https://github.com/spdcoin/speedcoin-wallet

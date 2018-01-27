@@ -10,7 +10,7 @@ FUNKTIONER:
 • App widget som visar plånbokens värde.
 
 Du kan lära dig mer om Speedcoin genom att besöka
-http://www.speedcoin.co/
+https://www.speedcoin.org/
 
 Om du vill hjälpa till med utvecklingen av Speedcoin Wallet så kan du hitta projektet här
 https://github.com/spdcoin/speedcoin-wallet
